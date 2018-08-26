@@ -1,0 +1,48 @@
+<!-- 146-->
+	<tr>
+    <td>BMW Electronic Transmission Workbook</td>
+	<td>Điện - Điện tử</td>
+    <td>BMW</td>
+	<td><a href="https://drive.google.com/uc?id=1ZuiyjCzahpKIWkckJJa0RVG-VU_3-WT1&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=146" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=146" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=146" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=146" id="myInputCopy"></td>
+</tr>
+<!-- 128-->
+	<tr>
+    <td>Đào tạo kỹ thuật BMW 7 Series G12 - BMW 7 Series G12 Training</td>
+	<td>Tổng hợp</td>
+    <td>BMW</td>
+	<td><a href="https://drive.google.com/uc?id=145CSjLub1eJEQn4azDe0DSvzoAs0S-0e&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=128" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=128" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=128" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=128" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 127-->
+	<tr>
+    <td>Động cơ N55-N54 BMW</td>
+	<td>Động cơ</td>
+    <td>BMW</td>
+	<td><a href="https://drive.google.com/file/d/1KqpMHnX9EA707uOLiIwdoqrEq2kFxRaY/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1KqpMHnX9EA707uOLiIwdoqrEq2kFxRaY&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=127" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=127" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=127" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=127" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 33-->
+	<tr>
+    <td>Tài liệu đào tạo xe BMW M5</td>
+	<td>Tổng hợp</td>
+    <td>BMW</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/5y4cybuxplpppnd/BMW M5.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=33" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=33" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=33" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=33" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

@@ -1,0 +1,34 @@
+﻿
+
+function doGet(e) {
+  return HtmlService.createHtmlOutputFromFile('form.html');
+        
+}
+
+function uploadFiles(form) {
+  
+  try {
+    
+    var dropbox = "tailieuckd";
+    var folder, folders = DriveApp.getFoldersByName(dropbox);
+    
+    if (folders.hasNext()) {
+      folder = folders.next();
+    } else {
+      folder = DriveApp.createFolder(dropbox);
+    }
+    
+    var blob = form.myFile;    
+    var file = folder.createFile(blob);    
+    file.setDescription("Uploaded by " + form.myName);
+    var str = file.getUrl();
+    var res = str.replace("/a/student.hcmute.edu.vn", "");
+    var rest = res.replace("?usp=drivesdk", "");
+    return "<font color='red'>Your file link : Copy this link</font> <br><br> <font color='black'>" + rest +"<br><br><font color='blue'><p>Quay lại trang tải lên vui lòng bấm F5.</p></font>";
+    
+  } catch (error) {
+    
+    return error.toString();
+  }
+  
+}

@@ -1,0 +1,48 @@
+<!-- 160-->
+	<tr>
+    <td>Mạch điện Mercedes Printer</td>
+	<td>Điện - Điện tử</td>
+    <td>MERCEDES</td>
+	<td><a href="https://drive.google.com/uc?id=17ip-t-fu2WT0V0_vbzwGbHl3tECGP3yE&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=160" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=160" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=160" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=160" id="myInputCopy"></td>
+</tr>
+<!-- 158-->
+	<tr>
+    <td>Mạch điện Động Cơ của Mercedes Sprinter</td>
+	<td>Điện - Điện tử</td>
+    <td>MERCEDES</td>
+	<td><a href="https://drive.google.com/file/d/1z5du08LqkVHG-aQ7i7MKYTpDVj0I4uQ1/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1z5du08LqkVHG-aQ7i7MKYTpDVj0I4uQ1&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=158" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=158" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=158" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=158" id="myInputCopy"></td>
+</tr>
+<!-- 59-->
+	<tr>
+    <td>Mã lỗi Mercedes - Mercedes Trouble Codes</td>
+	<td>Điện - Điện tử</td>
+    <td>MERCEDES</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/sg9jq9k5dcyje3s/Mercedes Trouble Codes.docx&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/sg9jq9k5dcyje3s/Mercedes Trouble Codes.docx" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=59" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=59" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=59" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=59" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 48-->
+	<tr>
+    <td>Hệ thống phun nhiên liệu</td>
+	<td>Điện - Điện tử</td>
+    <td>MERCEDES</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/t8obw6jwlei3s0b/2012 PE07.08-P-2101FAC GDI Engine 271.8.oxps&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/t8obw6jwlei3s0b/2012 PE07.08-P-2101FAC GDI Engine 271.8.oxps" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=48" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=48" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=48" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=48" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

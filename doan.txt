@@ -1,0 +1,37 @@
+<!-- 53-->
+	<tr>
+    <td>Đồ án hộp số tự động AW55-51 trên ô tô Chevrolet Captica</td>
+	<td>Động cơ</td>
+    <td>ĐỒ ÁN</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/ns2skeatltbpvok/do-an-khao-sat-hop-so-tu-dong-aw55-51-lap-tren-o-to-chevrolet-captiva-docx.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/ns2skeatltbpvok/do-an-khao-sat-hop-so-tu-dong-aw55-51-lap-tren-o-to-chevrolet-captiva-docx.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=53" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=53" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=53" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=53" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 51-->
+	<tr>
+    <td>Hệ thống điện và điện tử trên ôtô hiện đại</td>
+	<td>Điện - Điện tử</td>
+    <td>ĐỒ ÁN</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/qfy9cpjh8atxzam/GIÁOTRÌNH-Hệthốngđiệnvàđiệntửtrênôtôhiệnđại(Hệthốngđiệnđộngcơ-Hệthốngđiệnthânxevàđiềukhiểntựđộngtrênôtô)-PGS.TSĐỗVănDũng.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/qfy9cpjh8atxzam/GIÁOTRÌNH-Hệthốngđiệnvàđiệntửtrênôtôhiệnđại(Hệthốngđiệnđộngcơ-Hệthốngđiệnthânxevàđiềukhiểntựđộngtrênôtô)-PGS.TSĐỗVănDũng.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=51" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=51" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=51" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=51" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 50-->
+	<tr>
+    <td>Hệ thống điện thân xe và điều khiển tự động trên ôtô</td>
+	<td>Điện - Điện tử</td>
+    <td>ĐỒ ÁN</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/db3dd6hikp3hwyh/GIÁOTRÌNH-Hệthốngđiệnthânxevàđiềukhiểntựđộngtrênôtô(PGS.TSĐỗVănDũng).pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/db3dd6hikp3hwyh/GIÁOTRÌNH-Hệthốngđiệnthânxevàđiềukhiểntựđộngtrênôtô(PGS.TSĐỗVănDũng).pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=50" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=50" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=50" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=50" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+﻿

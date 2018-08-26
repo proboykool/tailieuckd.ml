@@ -1,0 +1,96 @@
+<!-- 108-->
+	<tr>
+    <td>Mạch điện Toyota Innova 2007</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://drive.google.com/uc?id=19OPYy7VK51Wasa9zbYfIMNRwd1WfMBdp&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=108" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=108" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=108" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=108" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 107-->
+	<tr>
+    <td>Mã khóa và hệ thống chống trộm các xe Toyota</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://drive.google.com/uc?id=1NEwSD4oC4CDUH0fIflv3NwC7oQjYPglG&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=107" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=107" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=107" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=107" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 60-->
+	<tr>
+    <td>Ký hiệu chân ECU Toyota</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/bgcveqog0jj3eyn/Ký Hiệu Các Đầu dây trên ECU Toyota.docx&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/bgcveqog0jj3eyn/Ký Hiệu Các Đầu dây trên ECU Toyota.docx" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=60" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=60" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=60" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=60" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 49-->
+	<tr>
+    <td>Tài liệu hướng dẫn cài đặt chìa khóa các dòng xe của Toyota</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/jyqkta7s199axsn/CAI CHIA VA NO MAY XE TOYOTA.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=49" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=49" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=49" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=49" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 47-->
+	<tr>
+    <td>Tài liệu đào tạo tháo lắp, sửa chữa hệ thống điện cơ bản của Toyota</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/lbyzd5vqs8u8bfw/Tài liệu đào tạo tháo lắp, sửa chữa hệ thống điện cơ bản của Toyota.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/lbyzd5vqs8u8bfw/Tài liệu đào tạo tháo lắp, sửa chữa hệ thống điện cơ bản của Toyota.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=47" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=47" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=47" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=47" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 37-->
+	<tr>
+    <td>Sơ đồ mạch điện Toyota Camry 2015</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/dkexhmbo2hy7ufe/2015_TOYOTA_CAMRY.zip" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=37" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=37" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=37" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=37" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 35-->
+	<tr>
+    <td>Sơ đồ mạch điện Toyota Vios 2010</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/h0psknr6pxjoabu/s_________m___ch___i__n_vios_2010.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=35" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=35" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=35" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=35" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 28-->
+	<tr>
+    <td>Sơ đồ mạch điện Toyota Innova 2017</td>
+	<td>Điện - Điện tử</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/4zxattcbgxro1ev/WIRRING DIAGRAM INNOVA 2017.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=28" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=28" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=28" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=28" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

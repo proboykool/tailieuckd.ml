@@ -1,0 +1,48 @@
+<!-- 150-->
+	<tr>
+    <td>Audi TT 2014 Training</td>
+	<td>Tổng hợp</td>
+    <td>AUDI</td>
+	<td><a href="https://drive.google.com/file/d/1tBkV0jYccGieL2R3uyoFckMaZK1hBM4X/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1tBkV0jYccGieL2R3uyoFckMaZK1hBM4X&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=150" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=150" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=150" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=150" id="myInputCopy"></td>
+</tr>
+<!-- 149-->
+	<tr>
+    <td>Audi TT 2014 Training</td>
+	<td>Tổng hợp</td>
+    <td>AUDI</td>
+	<td><a href="https://drive.google.com/file/d/1tBkV0jYccGieL2R3uyoFckMaZK1hBM4X/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1tBkV0jYccGieL2R3uyoFckMaZK1hBM4X&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=149" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=149" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=149" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=149" id="myInputCopy"></td>
+</tr>
+<!-- 131-->
+	<tr>
+    <td>Audi A8 (Type 4N) SSP 662 Training</td>
+	<td>Tổng hợp</td>
+    <td>AUDI</td>
+	<td><a href="https://drive.google.com/file/d/1A0uM59v6sf9zgcULGCeTRDouoaAM_v6E/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1A0uM59v6sf9zgcULGCeTRDouoaAM_v6E&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=131" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=131" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=131" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=131" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 130-->
+	<tr>
+    <td>Audi A8 (Type 4N) SSP 662 Training</td>
+	<td>Tổng hợp</td>
+    <td>AUDI</td>
+	<td><a href="https://drive.google.com/uc?id=1A0uM59v6sf9zgcULGCeTRDouoaAM_v6E&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=130" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=130" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=130" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=130" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

@@ -1,0 +1,36 @@
+<!-- 178-->
+	<tr>
+    <td>Tài liệu đào tạo độc quyền ABS Isuzu Việt Nam2011</td>
+	<td>Khung gầm</td>
+    <td>ISUZU</td>
+	<td><a href="https://drive.google.com/file/d/1NvQjfs1FfrFQfmXlV24S7x6UEYcENl4w/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1NvQjfs1FfrFQfmXlV24S7x6UEYcENl4w&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=178" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=178" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=178" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=178" id="myInputCopy"></td>
+</tr>
+<!-- 116-->
+	<tr>
+    <td>Tài liệu bơm VE Isuzu</td>
+	<td>Động cơ</td>
+    <td>ISUZU</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvQ0VaOXRQMjlkYVk/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvQ0VaOXRQMjlkYVk&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=116" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=116" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=116" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=116" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 30-->
+	<tr>
+    <td>Mạch mã khóa động cơ Isuzu</td>
+	<td>Điện - Điện tử</td>
+    <td>ISUZU</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/8whzjvm72ywchpl/07TF_Immobilizer_Training_ver1_Isuzu.ppt&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/8whzjvm72ywchpl/07TF_Immobilizer_Training_ver1_Isuzu.ppt" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=30" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=30" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=30" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=30" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

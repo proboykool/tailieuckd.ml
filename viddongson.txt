@@ -1,0 +1,12 @@
+<tr>
+    <td>Tỉ số truyền - Hộp giảm tốc</td>
+	<td>Đồng sơn</td>
+    <td>VIDEO</td>
+	<td><a href="https://drive.google.com/file/d/1dTS8tGe6Dx36EBZMeO7qCMy5LyAM8WU6/preview" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>History Cars Documentary</td>
+	<td>Đồng sơn</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/dsWKW8b_U5o&index=61&list=PLOkGZ5CeSt_INi3F_4Gm0i_g7wxfKFYtS&t=0s?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>

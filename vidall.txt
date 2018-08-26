@@ -1,0 +1,72 @@
+<tr>
+    <td>Mô phỏng 3D hệ thống phanh ABS</td>
+	<td>Khung gầm</td>
+    <td>VIDEO</td>
+	<td><a href="https://drive.google.com/file/d/1mhO3O197Jr47ku2kh64LpH5yduiizrP0/preview" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Hệ thống phun dầu điện tử CRS3 của Bosch - Injection Bosch Common Rail System CRS3</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/OVVzoMJ2qUY?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Tỉ số truyền - Hộp giảm tốc</td>
+	<td>Khung gầm</td>
+    <td>VIDEO</td>
+	<td><a href="https://drive.google.com/file/d/1dTS8tGe6Dx36EBZMeO7qCMy5LyAM8WU6/preview" target="_blank">Xem Video</a></td>
+</tr>
+﻿<tr>
+    <td>Động cơ ford với công nghệ phun xăng trực tiếp và tăng áp tích hợp - Ford EcoBoost Engine</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/g8ko719wC8o?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Mô phỏng nguyên lý làm việc của van hằng nhiệt</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/_HclvBmwWgQ?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Mô phỏng 3D hệ thống siêu nạp</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/stjvbAO_6JQ?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Mô phỏng hoạt động của động cơ, hệ thống truyền lực, hệ thống treo, khung gầm của Mercedes SLS AMG</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/yv1Ct9DsNGM?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Mô phỏng 3D công nghệ Hybrid của Honda</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/tKfabuubtsg?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Mô phỏng chi tiết động cơ Ducati 1299 Superleggera</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/uXFjfOZHq-c?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Cấu tạo và nguyên lý hoạt động hệ thống HVAC xe ô tô</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/egBDTkFM9mg?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>Cấu tạo và nguyên lý hoạt động của bộ vi sai ô tô</td>
+	<td>Động cơ</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/r7m_9KlB7dI?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>
+<tr>
+    <td>History Cars Documentary</td>
+	<td>Ôtô</td>
+    <td>VIDEO</td>
+	<td><a href="https://www.youtube.com/embed/dsWKW8b_U5o?autoplay=1" target="_blank">Xem Video</a></td>
+</tr>

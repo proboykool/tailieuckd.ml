@@ -1,0 +1,12 @@
+<!-- 145-->
+	<tr>
+    <td>Sửa chữa máy xúc đào Hitachi Model EX 65 - 370 - Hitachi excavator service manual EX 60 - 370</td>
+	<td>Tổng hợp</td>
+    <td>HITACHI</td>
+	<td><a href="https://drive.google.com/uc?id=1vN2FcQv4jP56Gp127EwhTStSGSbEGhb8&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=145" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=145" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=145" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=145" id="myInputCopy"></td>
+</tr>

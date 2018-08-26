@@ -1,0 +1,24 @@
+
+	<li><a href="theloai.php?n=TOYOTA"><image src="logo/TOYOTA.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;TOYOTA</a></li>
+	<li><a href="theloai.php?n=FORD"><image src="logo/FORD.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;FORD</a></li>
+	<li><a href="theloai.php?n=MAZDA"><image src="logo/MAZDA.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;MAZDA</a></li>
+	<li><a href="theloai.php?n=ISUZU"><image src="logo/ISUZU.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;ISUZU</a></li>
+	<li><a href="theloai.php?n=BMW"><image src="logo/BMW.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;BMW</a></li>
+	<li><a href="theloai.php?n=LAND ROVER"><image src="logo/LAND ROVER.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;LAND ROVER</a></li>
+	<li><a href="theloai.php?n=MERCEDES"><image src="logo/MERCEDES.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;MERCEDES</a></li>
+	<li><a href="theloai.php?n=LEXUS"><image src="logo/LEXUS.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;LEXUS</a></li>
+	<li><a href="theloai.php?n=DAEWOO"><image src="logo/DAEWOO.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;DAEWOO</a></li>
+	<li><a href="theloai.php?n=KIA"><image src="logo/KIA.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;KIA</a></li>
+	<li><a href="theloai.php?n=AUDI"><image src="logo/AUDI.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;AUDI</a></li>
+	<li><a href="theloai.php?n=HYUNDAI"><image src="logo/HYUNDAI.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;HYUNDAI</a></li>
+	<li><a href="theloai.php?n=HONDA"><image src="logo/HONDA.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;HONDA</a></li>
+	<li><a href="theloai.php?n=NISSAN"><image src="logo/NISSAN.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;NISSAN</a></li>
+	<li><a href="theloai.php?n=KOMATSU"><image src="logo/KOMATSU.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;KOMATSU</a></li>
+	<li><a href="theloai.php?n=BOSCH"><image src="logo/BOSCH.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;BOSCH</a></li>
+	<li><a href="theloai.php?n=YANMAR"><image src="logo/YANMAR.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;YANMAR</a></li>
+	<li><a href="theloai.php?n=VOLVO"><image src="logo/VOLVO.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;VOLVO</a></li>
+	<li><a href="theloai.php?n=PORSCHE"><image src="logo/PORSCHE.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;PORSCHE</a></li>
+	<li><a href="theloai.php?n=HITACHI"><image src="logo/HITACHI.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;HITACHI</a></li>
+	<li><a href="theloai.php?n=VOLKSWAGEN"><image src="logo/VOLKSWAGEN.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;VOLKSWAGEN</a></li>
+	<li><a href="theloai.php?n=MITSUBISHI"><image src="logo/MITSUBISHI.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;MITSUBISHI</a></li>
+	<li><a href="theloai.php?n=HINO"><image src="logo/HINO.png" style="width:50px; height:50px;" align="middle"/>&nbsp;&nbsp;&nbsp;HINO</a></li>

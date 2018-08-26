@@ -1,0 +1,12 @@
+<!-- 171-->
+	<tr>
+    <td>Mitsubishi Grandis Wiring Diagram</td>
+	<td>Điện - Điện tử</td>
+    <td>MITSUBISHI</td>
+	<td><a href="https://drive.google.com/file/d/168yo92BJizK1RXEN9vsGh7JdO4jCKgz4/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=168yo92BJizK1RXEN9vsGh7JdO4jCKgz4&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=171" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=171" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=171" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=171" id="myInputCopy"></td>
+</tr>

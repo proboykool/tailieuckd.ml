@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="Refresh" content="3;url=https://script.google.com/a/student.hcmute.edu.vn/macros/s/AKfycbwNk9mW-koGBj7X1RJd4pGSfylAiv9YRcPqRy7g/exec">
+<title>Upload - TailieuCKD</title>
+</head>
+
+<body>
+<p>Tải lên tài liệu của <font color="red">Tailieuckd.ml</font> tại: <a href="https://script.google.com/a/student.hcmute.edu.vn/macros/s/AKfycbwNk9mW-koGBj7X1RJd4pGSfylAiv9YRcPqRy7g/exec">Tại đây</a></p>
+<p>Chuyển hướng sau <span id="count">3</span> giây...</p>
+<p>Bạn sẽ được chuyển hướng sau 3 nếu không được vui lòng bấm vào link trên.</p>
+<script type="text/javascript">
+
+window.onload = function(){
+
+(function(){
+  var counter = 3;
+
+  setInterval(function() {
+    counter--;
+    if (counter >= 0) {
+      span = document.getElementById("count");
+      span.innerHTML = counter;
+    }
+    // Display 'counter' wherever you want to display it.
+    if (counter === 0) {
+    //    alert('this is where it happens');
+        clearInterval(counter);
+    }
+
+  }, 1000);
+
+})();
+
+}
+
+</script>
+</body>
+</html>

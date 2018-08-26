@@ -1,0 +1,24 @@
+<!-- 137-->
+	<tr>
+    <td>Tài liệu đào tạo hệ thống điện Hyundai</td>
+	<td>Điện - Điện tử</td>
+    <td>HYUNDAI</td>
+	<td><a href="https://drive.google.com/uc?id=1JBCNrUh_ZnJQpSjFsQNl3mkuFrNX_yG2&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=137" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=137" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=137" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=137" id="myInputCopy"></td>
+</tr>
+<!-- 90-->
+	<tr>
+    <td>Tài liệu sơ đồ mạch điện thân xe hyundai i10 2015 - Wirring Diagram Body electronic system hyundai i10 2015</td>
+	<td>Điện - Điện tử</td>
+    <td>HYUNDAI</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/nqjxnwqbycz101s/Tài liệu sơ đồ mạch điện thân xe hyundai i10 2015 - Wirring Diagram Body electronic system hyundai i10 2015.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=90" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=90" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=90" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=90" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

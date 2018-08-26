@@ -1,0 +1,24 @@
+<!-- 87-->
+	<tr>
+    <td>Tài liệu điện thân xe Kia tiếng Việt</td>
+	<td>Điện - Điện tử</td>
+    <td>KIA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/shud7ks2r9v6h74/Tài liệu điện thân xe Kia tiếng Việt.ppt&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/shud7ks2r9v6h74/Tài liệu điện thân xe Kia tiếng Việt.ppt" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=87" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=87" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=87" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=87" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 55-->
+	<tr>
+    <td>Hệ thống mã khóa động cơ KIA</td>
+	<td>Điện - Điện tử</td>
+    <td>KIA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/47466uzyxbo2ypn/Hệ thống mã khóa động cơ KIA.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/47466uzyxbo2ypn/Hệ thống mã khóa động cơ KIA.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=55" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=55" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=55" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=55" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

@@ -1,0 +1,48 @@
+<!-- 71-->
+	<tr>
+    <td>Sơ đồ mạch điện xe Mazda 6 (2002-2012) - Mazda 6 (GH) Wiring Diagram</td>
+	<td>Điện - Điện tử</td>
+    <td>MAZDA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/j7j1vh55bznh6d7/Mazda 6 (GH) Wiring Diagram-Sơ đồ mạch điện xe Mazda 6 (2002-2012).pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/j7j1vh55bznh6d7/Mazda 6 (GH) Wiring Diagram-Sơ đồ mạch điện xe Mazda 6 (2002-2012).pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=71" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=71" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=71" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=71" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 39-->
+	<tr>
+    <td>Sơ đồ mạch điện Mazda 6 2014</td>
+	<td>Điện - Điện tử</td>
+    <td>MAZDA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/u3e4nh6j5m5o47p/MAZDA_6-2014.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/u3e4nh6j5m5o47p/MAZDA_6-2014.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=39" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=39" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=39" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=39" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 38-->
+	<tr>
+    <td>Sơ đồ mạch điện Mazda CX-5 2013</td>
+	<td>Điện - Điện tử</td>
+    <td>MAZDA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/ca0aq4mtqvui65s/TÀILIỆU-SơđồmạchđiệnMazdaCX-5_2013.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/ca0aq4mtqvui65s/TÀILIỆU-SơđồmạchđiệnMazdaCX-5_2013.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=38" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=38" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=38" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=38" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 36-->
+	<tr>
+    <td>Sơ đồ mạch điện Mazda CX-5 2013</td>
+	<td>Điện - Điện tử</td>
+    <td>MAZDA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/pjpjiic6sstwyce/So_do_mach_dien_Mazda_CX5_2013.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=36" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=36" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=36" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=36" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

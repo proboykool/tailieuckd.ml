@@ -1,0 +1,109 @@
+<!-- 178-->
+	<tr>
+    <td>Tài liệu đào tạo độc quyền ABS Isuzu Việt Nam2011</td>
+	<td>Khung gầm</td>
+    <td>ISUZU</td>
+	<td><a href="https://drive.google.com/file/d/1NvQjfs1FfrFQfmXlV24S7x6UEYcENl4w/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1NvQjfs1FfrFQfmXlV24S7x6UEYcENl4w&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=178" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=178" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=178" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=178" id="myInputCopy"></td>
+</tr>
+<!-- 167-->
+	<tr>
+    <td>Phanh điện tử</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/1l9DOKWVyliQUuC2AlrRArMg1joUXZ8Pj/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1l9DOKWVyliQUuC2AlrRArMg1joUXZ8Pj&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=167" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=167" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=167" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=167" id="myInputCopy"></td>
+</tr>
+<!-- 75-->
+	<tr>
+    <td>Hyundai ABS TCS ESP Training</td>
+	<td>Khung gầm</td>
+    <td>HYUNDAI</td>
+	<td><a href="https://drive.google.com/uc?id=1pnGbcBYZP1tOul8B2RBO-MH66mTp91L9&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=75" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=75" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=75" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=75" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 72-->
+	<tr>
+    <td>Tháo lắp hộp số A4AF3</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/je9qncu18vc9jqd/Hop so A4AF3-Thao lap-thầy Thiện gửi.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/je9qncu18vc9jqd/Hop so A4AF3-Thao lap-thầy Thiện gửi.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=72" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=72" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=72" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=72" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 68-->
+	<tr>
+    <td>Hộp số thường</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/tg8dwlm7cq145d4/Hộp số thường.pptx&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/tg8dwlm7cq145d4/Hộp số thường.pptx" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=68" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=68" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=68" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=68" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 62-->
+	<tr>
+    <td>Chẩn đoán hệ thống khung gầm ô tô</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/3mvuopvk3i9ida3/chandoanhethongoto.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/3mvuopvk3i9ida3/chandoanhethongoto.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=62" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=62" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=62" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=62" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 44-->
+	<tr>
+    <td>Khung bệ gầm Nguyễn Oanh</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/ym46td1n2cxm123/Nguyễn Oanh - Khung bệ gầm.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/ym46td1n2cxm123/Nguyễn Oanh - Khung bệ gầm.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=44" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=44" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=44" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=44" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 32-->
+	<tr>
+    <td>ABS</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/wfznszcr00eac7q/ABS.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/wfznszcr00eac7q/ABS.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=32" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=32" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=32" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=32" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 31-->
+	<tr>
+    <td>Phanh ABS</td>
+	<td>Khung gầm</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/je5u9av8xl0k4o3/ThucTapKG2.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=31" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=31" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=31" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=31" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+﻿

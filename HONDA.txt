@@ -1,0 +1,72 @@
+<!-- 177-->
+	<tr>
+    <td>Mạch điện Honda City 2014 - 2018</td>
+	<td>Điện - Điện tử</td>
+    <td>HONDA</td>
+	<td><a href="https://drive.google.com/uc?id=1EdWm_2pYidnOFOtKUkHvGoR22gxyMM9V&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=177" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=177" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=177" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=177" id="myInputCopy"></td>
+</tr>
+<!-- 165-->
+	<tr>
+    <td>Tài liệu Honda CR-V Owners Manual 2015</td>
+	<td>Tổng hợp</td>
+    <td>HONDA</td>
+	<td><a href="https://drive.google.com/file/d/1xrZB_ffUK8H2NdoxWgA8uF5MkL1x-8Re/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1xrZB_ffUK8H2NdoxWgA8uF5MkL1x-8Re&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=165" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=165" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=165" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=165" id="myInputCopy"></td>
+</tr>
+<!-- 124-->
+	<tr>
+    <td>Mạch điện Honda Airblade 2016</td>
+	<td>Điện - Điện tử</td>
+    <td>HONDA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/uk43ngqn0kmpr59/MACH_AB_2016.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/uk43ngqn0kmpr59/MACH_AB_2016.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=124" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=124" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=124" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=124" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 122-->
+	<tr>
+    <td>Hướng dẫn sửa chữa xe Future 125</td>
+	<td>Tổng hợp</td>
+    <td>HONDA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/68zqi4nvr6qq6sj/TÀILIỆUĐÀOTẠO-HướngdẫnsửachữaxeFuture125(Full)_unlocked.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/68zqi4nvr6qq6sj/TÀILIỆUĐÀOTẠO-HướngdẫnsửachữaxeFuture125(Full)_unlocked.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=122" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=122" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=122" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=122" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 84-->
+	<tr>
+    <td>Mạch điện Honda Civic 1.4 2012</td>
+	<td>Điện - Điện tử</td>
+    <td>HONDA</td>
+	<td><a href="https://drive.google.com/uc?id=11V_-NNamv4dJymh0YeyBT13K3S9O9A4Z&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=84" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=84" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=84" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=84" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 80-->
+	<tr>
+    <td>Honda Civic EMS 2007</td>
+	<td>Tổng hợp</td>
+    <td>HONDA</td>
+	<td><a href="https://drive.google.com/uc?id=1SL6vVO58nneD7rNh9bS4qWyZH74pNkwj&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=80" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=80" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=80" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=80" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

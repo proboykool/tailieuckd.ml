@@ -1,0 +1,24 @@
+<!-- 134-->
+	<tr>
+    <td>Động cơ TDI Audi A3 - Audi A3 TDI Engine</td>
+	<td>Động cơ</td>
+    <td>AUDI</td>
+	<td><a href="https://drive.google.com/file/d/1TTaCBEdVPtfAwrkmFAnSg3KeB7tAyhHZ/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1TTaCBEdVPtfAwrkmFAnSg3KeB7tAyhHZ&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=134" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=134" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=134" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=134" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 67-->
+	<tr>
+    <td>Đào tạo động cơ Xe Audi 3.0L V6 TDI</td>
+	<td>Động cơ</td>
+    <td>AUDI</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/t8n3gb6sp91yj8p/Đào tạo động cơ Xe Audi 3.0L V6 TDI.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/t8n3gb6sp91yj8p/Đào tạo động cơ Xe Audi 3.0L V6 TDI.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=67" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=67" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=67" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=67" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

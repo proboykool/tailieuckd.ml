@@ -1,0 +1,12 @@
+<!-- 132-->
+	<tr>
+    <td>Porsche Panamera Hybrid Service Training</td>
+	<td>Tổng hợp</td>
+    <td>PORSCHE</td>
+	<td><a href="https://drive.google.com/uc?id=1gBf8VGX7GicvwobkadDO8xvT97TGxt3f&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=132" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=132" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=132" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=132" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

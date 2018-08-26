@@ -1,0 +1,36 @@
+<!-- 126-->
+	<tr>
+    <td>Đào tạo truyền động Toyota - Toyota CVT Transmission K111 K311 Training</td>
+	<td>Động cơ</td>
+    <td>TOYOTA</td>
+	<td><a href="https://drive.google.com/uc?id=10F0p_t4vUynnfSp5dJ4b-yDYjzU_HI8s&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=126" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=126" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=126" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=126" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 95-->
+	<tr>
+    <td>Tài liệu máy xăng, máy dầu Toyota Fortuner</td>
+	<td>Động cơ</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/tvetfjaixyhrfgl/fortuner may xang , may dau.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=95" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=95" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=95" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=95" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 24-->
+	<tr>
+    <td>Tài liệu đào tạo Kỹ Thuật Viên TOYOTA</td>
+	<td>Động cơ</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/5xv1kx5hnnc83b8/Tài liệu đào tạo KTV TOYOTA.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=24" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=24" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=24" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=24" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>

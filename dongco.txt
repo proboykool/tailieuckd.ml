@@ -1,0 +1,337 @@
+<!-- 184-->
+	<tr>
+    <td>Engine management diesel - Quản lý động cơ diesel</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/1Rbbp_4f2RPBUaVFIlz4ZX6JYyEXW6hFc/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1Rbbp_4f2RPBUaVFIlz4ZX6JYyEXW6hFc&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=184" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=184" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=184" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=184" id="myInputCopy"></td>
+</tr>
+<!-- 183-->
+	<tr>
+    <td>Abnormal noise from cabin hinge - Tiếng ồn bất thường từ bản lề cabin</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/1n0deSKYDVTK7BU6ZGOPQgFXwF_AMKe-j/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1n0deSKYDVTK7BU6ZGOPQgFXwF_AMKe-j&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=183" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=183" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=183" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=183" id="myInputCopy"></td>
+</tr>
+<!-- 134-->
+	<tr>
+    <td>Động cơ TDI Audi A3 - Audi A3 TDI Engine</td>
+	<td>Động cơ</td>
+    <td>AUDI</td>
+	<td><a href="https://drive.google.com/file/d/1TTaCBEdVPtfAwrkmFAnSg3KeB7tAyhHZ/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1TTaCBEdVPtfAwrkmFAnSg3KeB7tAyhHZ&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=134" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=134" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=134" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=134" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 127-->
+	<tr>
+    <td>Động cơ N55-N54 BMW</td>
+	<td>Động cơ</td>
+    <td>BMW</td>
+	<td><a href="https://drive.google.com/file/d/1KqpMHnX9EA707uOLiIwdoqrEq2kFxRaY/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1KqpMHnX9EA707uOLiIwdoqrEq2kFxRaY&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=127" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=127" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=127" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=127" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 126-->
+	<tr>
+    <td>Đào tạo truyền động Toyota - Toyota CVT Transmission K111 K311 Training</td>
+	<td>Động cơ</td>
+    <td>TOYOTA</td>
+	<td><a href="https://drive.google.com/uc?id=10F0p_t4vUynnfSp5dJ4b-yDYjzU_HI8s&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=126" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=126" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=126" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=126" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 120-->
+	<tr>
+    <td>Tài liệu động cơ Diesel Kiki Bosch</td>
+	<td>Động cơ</td>
+    <td>BOSCH</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvYkhVS1RDeEpqbVU/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvYkhVS1RDeEpqbVU&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=120" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=120" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=120" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=120" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 119-->
+	<tr>
+    <td>Tài liệu hệ thống nhiên liệu động cơ TAMD Volvo</td>
+	<td>Động cơ</td>
+    <td>VOLVO</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvdU4yXzdFWDR3SFk/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvdU4yXzdFWDR3SFk&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=119" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=119" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=119" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=119" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 118-->
+	<tr>
+    <td>Tài liệu động cơ Diesel Yanmar</td>
+	<td>Động cơ</td>
+    <td>YANMAR</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvem5uWTlaaUNueWM/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvem5uWTlaaUNueWM&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=118" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=118" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=118" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=118" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 117-->
+	<tr>
+    <td>Tài liệu hệ thống nhiên liệu</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvT0kzR0tSWnlITTg/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvT0kzR0tSWnlITTg&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=117" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=117" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=117" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=117" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 116-->
+	<tr>
+    <td>Tài liệu bơm VE Isuzu</td>
+	<td>Động cơ</td>
+    <td>ISUZU</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvQ0VaOXRQMjlkYVk/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvQ0VaOXRQMjlkYVk&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=116" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=116" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=116" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=116" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 115-->
+	<tr>
+    <td>Tài liệu kim phun Bosch</td>
+	<td>Động cơ</td>
+    <td>BOSCH</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvTzR4cmdTYVVGNUE/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvTzR4cmdTYVVGNUE&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=115" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=115" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=115" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=115" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 114-->
+	<tr>
+    <td>Tài liệu bơm VE Bosch</td>
+	<td>Động cơ</td>
+    <td>BOSCH</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvR3l5ekpNZXpXY1E/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvR3l5ekpNZXpXY1E&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=114" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=114" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=114" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=114" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 112-->
+	<tr>
+    <td>Tài liệu kim phun KIA</td>
+	<td>Động cơ</td>
+    <td>KIA</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvSlZ2WmhhX0xpVGM/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvSlZ2WmhhX0xpVGM&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=112" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=112" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=112" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=112" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 111-->
+	<tr>
+    <td>Bơm cao áp</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvQmlnSE1xakpseWs/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvQmlnSE1xakpseWs&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=111" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=111" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=111" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=111" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 110-->
+	<tr>
+    <td>Tài liệu động cơ Diesel</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/0B5gKn_GBUQbvRkhZNy1XblR2T00/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=0B5gKn_GBUQbvRkhZNy1XblR2T00&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=110" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=110" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=110" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=110" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 109-->
+	<tr>
+    <td>Van điều khiển đường dầu OCV</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://drive.google.com/file/d/1tJR4pH4XnMpWp8qWrK02VK1nWfuhAP_L/preview" target="_blank">Xem Online</a><br><br><a href="https://drive.google.com/uc?id=1tJR4pH4XnMpWp8qWrK02VK1nWfuhAP_L&export=download" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=109" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=109" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=109" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=109" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 97-->
+	<tr>
+    <td>Tài liệu tiếng việt nghiên cứu hệ thống thủy lực máy công trình Komatsu pc200-8</td>
+	<td>Động cơ</td>
+    <td>KOMATSU</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/3u66qdbpi6enujv/nghien_cuu_mo_phong_he_thong_thuy_luc_tren_may_xuc_dao_komatsu_pc200_8.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/3u66qdbpi6enujv/nghien_cuu_mo_phong_he_thong_thuy_luc_tren_may_xuc_dao_komatsu_pc200_8.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=97" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=97" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=97" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=97" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 95-->
+	<tr>
+    <td>Tài liệu máy xăng, máy dầu Toyota Fortuner</td>
+	<td>Động cơ</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/tvetfjaixyhrfgl/fortuner may xang , may dau.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=95" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=95" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=95" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=95" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 69-->
+	<tr>
+    <td>Giáo trình Sửa chữa và bảo dưỡng hệ thống bôi trơn làm mát</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/k92ivdnibqjao4r/GIÁOTRÌNH-Sửachữavàbảodưỡnghệthốngbôitrơnlàmmát(TrườngTCNghềGTVTHảiPhòng)_unlocked.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/k92ivdnibqjao4r/GIÁOTRÌNH-Sửachữavàbảodưỡnghệthốngbôitrơnlàmmát(TrườngTCNghềGTVTHảiPhòng)_unlocked.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=69" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=69" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=69" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=69" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 67-->
+	<tr>
+    <td>Đào tạo động cơ Xe Audi 3.0L V6 TDI</td>
+	<td>Động cơ</td>
+    <td>AUDI</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/t8n3gb6sp91yj8p/Đào tạo động cơ Xe Audi 3.0L V6 TDI.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/t8n3gb6sp91yj8p/Đào tạo động cơ Xe Audi 3.0L V6 TDI.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=67" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=67" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=67" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=67" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 63-->
+	<tr>
+    <td>Tài liệu động cơ Mazda CX-05</td>
+	<td>Động cơ</td>
+    <td>MAZDA</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/vu6a1p070pucn7m/CX-5_01_Engine_Vietnamese.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/vu6a1p070pucn7m/CX-5_01_Engine_Vietnamese.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=63" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=63" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=63" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=63" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 61-->
+	<tr>
+    <td>Tài liệu phun xăng đa điểm</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/n6gejbafqv1ji15/Tai lieu phun xăng đa điểm.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/n6gejbafqv1ji15/Tai lieu phun xăng đa điểm.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=61" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=61" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=61" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=61" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 53-->
+	<tr>
+    <td>Đồ án hộp số tự động AW55-51 trên ô tô Chevrolet Captica</td>
+	<td>Động cơ</td>
+    <td>ĐỒ ÁN</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/ns2skeatltbpvok/do-an-khao-sat-hop-so-tu-dong-aw55-51-lap-tren-o-to-chevrolet-captiva-docx.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/ns2skeatltbpvok/do-an-khao-sat-hop-so-tu-dong-aw55-51-lap-tren-o-to-chevrolet-captiva-docx.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=53" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=53" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=53" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=53" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 43-->
+	<tr>
+    <td>Động cơ Diesel Nguyễn Oanh</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/g0x2mpj3fgb6yyz/Nguyễn Oanh - Diesel.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/g0x2mpj3fgb6yyz/Nguyễn Oanh - Diesel.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=43" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=43" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=43" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=43" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 42-->
+	<tr>
+    <td>Động cơ Xăng Nguyễn Oanh</td>
+	<td>Động cơ</td>
+    <td>CHUYÊN NGÀNH</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/nocn67qc7w6ky0a/Nguyễn Oanh - ĐC Xăng.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/nocn67qc7w6ky0a/Nguyễn Oanh - ĐC Xăng.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=42" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=42" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=42" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=42" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 27-->
+	<tr>
+    <td>Tài liệu sửa chữa Ford Ranger</td>
+	<td>Động cơ</td>
+    <td>FORD</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/os2luxolj2adc6v/New_Ranger_J97U.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=27" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=27" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=27" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=27" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 25-->
+	<tr>
+    <td>Tài liệu đào tạo Ford Transit V384 Tiếng Việt</td>
+	<td>Động cơ</td>
+    <td>FORD</td>
+	<td><a href="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/s/w37qu5itw8z9ngv/Tài lieu6 đào tạo Ford_Transit_V384_ti___ng_vi___t.pdf&embedded=true" target="_blank">Xem Online</a><br><br><a href="https://dl.dropboxusercontent.com/s/w37qu5itw8z9ngv/Tài lieu6 đào tạo Ford_Transit_V384_ti___ng_vi___t.pdf" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=25" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=25" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=25" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=25" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+<!-- 24-->
+	<tr>
+    <td>Tài liệu đào tạo Kỹ Thuật Viên TOYOTA</td>
+	<td>Động cơ</td>
+    <td>TOYOTA</td>
+	<td><a href="https://dl.dropboxusercontent.com/s/5xv1kx5hnnc83b8/Tài liệu đào tạo KTV TOYOTA.rar" target="_blank">Tải về</a><br><br>
+		<font color="blue">Share:</font>
+		<a href="http://www.facebook.com/sharer.php?u=http://tailieuckd.ml/index.php?shareid=24" class="fa fa-facebook" target="_blank"></a>
+		<a href="http://twitter.com/share?url=http://tailieuckd.ml/index.php?shareid=24" class="fa fa-twitter" target="_blank"></a>
+		<a href="https://plus.google.com/share?url=http://tailieuckd.ml/index.php?shareid=24" class="fa fa-google" target="_blank"></a><br>
+		<input type="text" value="http://tailieuckd.ml/index.php?shareid=24" id="myInputCopy"><button onclick="CLink()">Copy link</button></td>
+</tr>
+﻿
